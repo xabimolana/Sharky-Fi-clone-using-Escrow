@@ -6,7 +6,7 @@ pub use errors::ErrorCodes;
 pub use instructions::*;
 pub use states::*;
 
-declare_id!("DZSXK8Tvqo4vGqhW9mGjFuWX5XFcPGoJ5daJhMhxLFuK");
+declare_id!("<PLACE YOUR ADDRESS HERE>");
 
 #[program]
 pub mod nft_lend_borrow {
